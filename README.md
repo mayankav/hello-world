@@ -1,3 +1,3 @@
 # hello-world
 tutorial trial
-edir one 
+edit one 
